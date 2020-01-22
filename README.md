@@ -1,5 +1,7 @@
 # Unit-4-Game Homework (CrystalCollector)
 
+Homework for full stack development bootcamp UT-Austin (UT-VIRT-FSF-PT-11-2019-U-LOL)
+
 After going very deep in the last homework assignment I opted for a different approach on the jQuery Crystals Collectors assignment. My goal was to recreate the exact functionality shown in the video example (flawed as it was).
 
 The internal challenge was trying to put the maximum amount of program logic inside the two object classes. I ended with only 13 lines of (jQuery/javaScript) code outside the object methods.
