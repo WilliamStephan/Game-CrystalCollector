@@ -1,4 +1,5 @@
 # Crystal Collector Game
+Application link: [CrystalCollector](https://williamstephan.github.io/unit-4-game/)
 
 Homework for full stack development bootcamp UT-Austin (UT-VIRT-FSF-PT-11-2019-U-LOL)
 
@@ -7,8 +8,6 @@ After going very deep in the last homework assignment I opted for a different ap
 The internal challenge was trying to put the maximum amount of program logic inside the two object classes. I ended with only 13 lines of (jQuery/javaScript) code outside the object methods.
 
 I also added some base functionality to eliminate duplicate random values from the gem objects. Not in the spec, but seemed appropriate.
-
-Application link: [CrystalCollector](https://williamstephan.github.io/unit-4-game/)
 
 ## Specifications
 
