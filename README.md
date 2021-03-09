@@ -1,4 +1,4 @@
-# Unit-4-Game Homework (CrystalCollector)
+# Crystal Collector
 
 Homework for full stack development bootcamp UT-Austin (UT-VIRT-FSF-PT-11-2019-U-LOL)
 
