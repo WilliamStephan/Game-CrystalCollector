@@ -1,5 +1,5 @@
 # Crystal Collector Game
-Application link: [CrystalCollector](https://williamstephan.github.io/unit-4-game/)
+Application link: [Crystal Collector](https://williamstephan.github.io/unit-4-game/)
 
 Homework for full stack development bootcamp UT-Austin (UT-VIRT-FSF-PT-11-2019-U-LOL)
 
